@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">RankUp</string>
+    <string name="ipusername">UserName</string>
+    <string name="btnsearch">Search</string>
+    <string name="ipsearchlimit">Search Limit</string>
+    <string name="username">UserName</string>
+    <string name="search_limit">Search Limit</string>
+    <string name="show" >Update Results</string>
+    <string name="tableLvl">LVL</string>
+    <string name="tableSkill">Skill</string>
+    <string name="tableXp">XP</string>
+    <string name="tableRank">Rank</string>
+
+    <string name="rankup">RankUp</string>
+    <string name="lvlup">LvlUp</string>
+    <string name="help">Help?</string>
+
+
+
+    <string name="tableMining">Mining</string>
+    <string name="miningLvl">LVL</string>
+    <string name="miningXp">XP</string>
+    <string name="miningRank">Rank</string>
+
+    <string name="tableSmithing">Smithing</string>
+    <string name="smithingLvl">LVL</string>
+    <string name="smithingXp">XP</string>
+    <string name="smithingRank">Rank</string>
+
+    <string name="tableWoodcutting">Woodcutting</string>
+    <string name="woodcuttingLvl">LVL</string>
+    <string name="woodcuttingXp">XP</string>
+    <string name="woodcuttingRank">Rank</string>
+
+
+    <string name="tableCrafting">Crafting</string>
+    <string name="craftingLvl">LVL</string>
+    <string name="craftingXp">XP</string>
+    <string name="craftingRank">Rank</string>
+
+    <string name="tableFishing">Fishing</string>
+    <string name="fishingLvl">LVL</string>
+    <string name="fishingXp">XP</string>
+    <string name="fishingRank">Rank</string>
+
+    <string name="tableCooking">Cooking</string>
+    <string name="cookingLvl">LVL</string>
+    <string name="cookingXp">XP</string>
+    <string name="cookingRank">Rank</string>
+    <string name="string_output"> -------RESULT-------\n
+                                  Skill : LVL | XP | Rank\n
+                                  Combat : 1-0% | 0 | 0 \n
+                                  Mining : 1-0% | 0 | 0 \n
+                                  Smithing : 1-0% | 0 | 0 \n
+                                  Woodcutting : 1-0% | 0 | 0 \n
+                                  Crafting : 1-0% | 0 | 0 \n
+                                  Fishing : 1-0% | 0 | 0 \n
+                                  Cooking : 1-0% | 0 | 0 \n </string>
+
+</resources>
